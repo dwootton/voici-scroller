@@ -6,6 +6,6 @@ dependencies:
   - xeus-python
   - pandas <2
   - bqplot
-  - numpy
+  - numpy==1.26.4
   - matplotlib
   - ipywidgets
